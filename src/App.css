@@ -1,0 +1,184 @@
+writing{variant="standard" title="React App.css Code" id="69421"}body {margin: 0;font-family: Arial, sans-serif;background: #f1f5f9;color: #1e293b;}
+
+.container {max-width: 800px;margin: 0 auto;padding: 25px 16px;}
+
+h1 {text-align: center;color: #2563eb;}
+
+.intro {text-align: center;margin-bottom: 25px;}
+
+.card {background: white;padding: 20px;margin-bottom: 20px;border-radius: 12px;box-shadow: 0 3px 10px rgba(0, 0, 0, 0.08);}
+
+.skill {display: inline-block;background: #dbeafe;color: #1d4ed8;padding: 8px 12px;margin: 5px;border-radius: 20px;}
+
+.project {padding: 12px 0;border-bottom: 1px solid #e2e8f0;}
+
+.project:last-child {border-bottom: none;}
+
+button {background: #2563eb;color: white;border: none;padding: 10px 15px;border-radius: 6px;cursor: pointer;margin-bottom: 10px;}
+
+button:hover {background: #1d4ed8;}
+
+.footer {text-align: center;font-size: 13px;color: #64748b;margin-top: 25px;}
+
+writing{variant="standard" title="React App.css Code" id="69421"}
+body {
+  margin: 0;
+    font-family: Arial, sans-serif;
+      background: #f1f5f9;
+        color: #1e293b;
+        }
+
+        .container {
+          max-width: 800px;
+            margin: 0 auto;
+              padding: 25px 16px;
+              }
+
+              h1 {
+                text-align: center;
+                  color: #2563eb;
+                  }
+
+                  .intro {
+                    text-align: center;
+                      margin-bottom: 25px;
+                      }
+
+                      .card {
+                        background: white;
+                          padding: 20px;
+                            margin-bottom: 20px;
+                              border-radius: 12px;
+                                box-shadow: 0 3px 10px rgba(0, 0, 0, 0.08);
+                                }
+
+                                .skill {
+                                  display: inline-block;
+                                    background: #dbeafe;
+                                      color: #1d4ed8;
+                                        padding: 8px 12px;
+                                          margin: 5px;
+                                            border-radius: 20px;
+                                            }
+
+                                            .project {
+                                              padding: 12px 0;
+                                                border-bottom: 1px solid #e2e8f0;
+                                                }
+
+                                                .project:last-child {
+                                                  border-bottom: none;
+                                                  }
+
+                                                  button {
+                                                    background: #2563eb;
+                                                      color: white;
+                                                        border: none;
+                                                          padding: 10px 15px;
+                                                            border-radius: 6px;
+                                                              cursor: pointer;
+                                                                margin-bottom: 10px;
+                                                                }
+
+                                                                button:hover {
+                                                                  background: #1d4ed8;
+                                                                  }
+
+                                                                  .footer {
+                                                                    text-align: center;
+                                                                      font-size: 13px;
+                                                                        color: #64748b;
+                                                                          margin-top: 25px;
+                                                                          }writing{variant="standard" title="React App.css Code" id="69421"}body {margin: 0;font-family: Arial, sans-serif;background: #f1f5f9;color: #1e293b;}
+
+                                                                          .container {max-width: 800px;margin: 0 auto;padding: 25px 16px;}
+
+                                                                          h1 {text-align: center;color: #2563eb;}
+
+                                                                          .intro {text-align: center;margin-bottom: 25px;}
+
+                                                                          .card {background: white;padding: 20px;margin-bottom: 20px;border-radius: 12px;box-shadow: 0 3px 10px rgba(0, 0, 0, 0.08);}
+
+                                                                          .skill {display: inline-block;background: #dbeafe;color: #1d4ed8;padding: 8px 12px;margin: 5px;border-radius: 20px;}
+
+                                                                          .project {padding: 12px 0;border-bottom: 1px solid #e2e8f0;}
+
+                                                                          .project:last-child {border-bottom: none;}
+
+                                                                          button {background: #2563eb;color: white;border: none;padding: 10px 15px;border-radius: 6px;cursor: pointer;margin-bottom: 10px;}
+
+                                                                          button:hover {background: #1d4ed8;}
+
+                                                                          .footer {text-align: center;font-size: 13px;color: #64748b;margin-top: 25px;}
+
+                                                                          writing{variant="standard" title="React App.css Code" id="69421"}
+                                                                          body {
+                                                                            margin: 0;
+                                                                              font-family: Arial, sans-serif;
+                                                                                background: #f1f5f9;
+                                                                                  color: #1e293b;
+                                                                                  }
+
+                                                                                  .container {
+                                                                                    max-width: 800px;
+                                                                                      margin: 0 auto;
+                                                                                        padding: 25px 16px;
+                                                                                        }
+
+                                                                                        h1 {
+                                                                                          text-align: center;
+                                                                                            color: #2563eb;
+                                                                                            }
+
+                                                                                            .intro {
+                                                                                              text-align: center;
+                                                                                                margin-bottom: 25px;
+                                                                                                }
+
+                                                                                                .card {
+                                                                                                  background: white;
+                                                                                                    padding: 20px;
+                                                                                                      margin-bottom: 20px;
+                                                                                                        border-radius: 12px;
+                                                                                                          box-shadow: 0 3px 10px rgba(0, 0, 0, 0.08);
+                                                                                                          }
+
+                                                                                                          .skill {
+                                                                                                            display: inline-block;
+                                                                                                              background: #dbeafe;
+                                                                                                                color: #1d4ed8;
+                                                                                                                  padding: 8px 12px;
+                                                                                                                    margin: 5px;
+                                                                                                                      border-radius: 20px;
+                                                                                                                      }
+
+                                                                                                                      .project {
+                                                                                                                        padding: 12px 0;
+                                                                                                                          border-bottom: 1px solid #e2e8f0;
+                                                                                                                          }
+
+                                                                                                                          .project:last-child {
+                                                                                                                            border-bottom: none;
+                                                                                                                            }
+
+                                                                                                                            button {
+                                                                                                                              background: #2563eb;
+                                                                                                                                color: white;
+                                                                                                                                  border: none;
+                                                                                                                                    padding: 10px 15px;
+                                                                                                                                      border-radius: 6px;
+                                                                                                                                        cursor: pointer;
+                                                                                                                                          margin-bottom: 10px;
+                                                                                                                                          }
+
+                                                                                                                                          button:hover {
+                                                                                                                                            background: #1d4ed8;
+                                                                                                                                            }
+
+                                                                                                                                            .footer {
+                                                                                                                                              text-align: center;
+                                                                                                                                                font-size: 13px;
+                                                                                                                                                  color: #64748b; 
+                                                                                                                                                    margin-top: 25px;
+                                                                                                                                                    }
+                                                                                                                                                    import "./App.css";
