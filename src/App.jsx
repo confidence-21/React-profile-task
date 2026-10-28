@@ -1,4 +1,4 @@
-writing{variant="standard" title="React App.jsx Code" id="58314"}import { useState, useEffect } from "react";import "./App.css";
+import { useState, useEffect } from "react";import "./App.css";
 
 // Component 1: Profilefunction Profile({ name, course }) {return (<section className="card"><h2>{name}</h2><p>{course}</p><p>A beginner learning frontend development with React.</p></section>);}
 
@@ -67,7 +67,7 @@ writing{variant="standard" title="React App.jsx Code" id="58314"}import { useSta
 
                                                                                                                 export default App;
 
-                                                                                                                writing{variant="standard" title="React App.jsx Code" id="58314"}
+                                                                                                                
                                                                                                                 import { useState, useEffect } from "react";
                                                                                                                 import "./App.css";
 
