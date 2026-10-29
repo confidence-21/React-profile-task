@@ -8,10 +8,10 @@ import { useState, useEffect } from "react";import "./App.css";
     <span className="skill" key={skill}>
           {skill}
               </span>
-                ))}
+                )}
                 
 
-                );}
+                
 
                 // Component 3: ProjectListfunction ProjectList({ projects }) {const [showProjects, setShowProjects] = useState(true);
 
